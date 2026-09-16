@@ -1,0 +1,9 @@
+{
+  "name": "alpha-bot-v5",
+  "version": "5.0.0",
+  "description": "Alpha Bot V5 - loja Discord completa com produtos, estoque, tickets, pagamentos, entrega, logs e painel.",
+  "main": "index.js",
+  "scripts": {"start": "node index.js"},
+  "engines": {"node": ">=20"},
+  "dependencies": {"discord.js": "^14.24.2"}
+}
